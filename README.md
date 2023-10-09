@@ -1,4 +1,4 @@
 # ChatRoom
 
-To run the server, first run `npm install` and then run `node index.js` into your CMD.\
+To run the server, in your command line run `npm install` and then `node index.js`.\
 After that go to `http://localhost:3000/` to begin chatting! 
